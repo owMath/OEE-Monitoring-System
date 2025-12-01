@@ -43,7 +43,7 @@
         "minPoolSize": "0",
         "maxPoolSize": "100",
         "maxIdleTimeMS": "0",
-        "uri": "mongodb",
+        "uri": "mongodbaqui",
         "advanced": "{}",
         "uriTabActive": "tab-uri-advanced"
     },
