@@ -43,7 +43,7 @@
         "minPoolSize": "0",
         "maxPoolSize": "100",
         "maxIdleTimeMS": "0",
-        "uri": "mongodb+srv://math:1234@clustertcc.aj3pjgo.mongodb.net/?appName=ClusterTCC",
+        "uri": "mongodb",
         "advanced": "{}",
         "uriTabActive": "tab-uri-advanced"
     },
